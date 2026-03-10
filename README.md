@@ -127,6 +127,6 @@ Username:
 
 Enter:
 
-patelanita22
+password: 
 
-Phir:
+Enter: 
